@@ -85,7 +85,7 @@
 
   
   .img-perfil {
-  background-image: url(/imagens/person.png);
+  mix-blend-mode: multiply ;
   
   margin-top: 20px;
 
