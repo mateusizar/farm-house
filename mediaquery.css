@@ -15,8 +15,9 @@
 
 
 .social-links {
-  width: 50%;
-  height:50%;
+  overflow: hidden;
+  width: 200px;
+  height:auto;
 }
 
 
