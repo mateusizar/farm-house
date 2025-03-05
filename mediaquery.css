@@ -21,17 +21,21 @@ html {
     
 .img-perfil {
   margin-top: 100px;
+  background-image: url(imagens/personpequ.png);
+ 
 }
 
 .social-links {
-  
+ 
   width: 150px;
   height: auto;
-  margin: 30px;
-  margin-top: 1px ;
+  
+  /* margin: 30px;
+  margin-top: 1px ; */
+
   margin-bottom: 200px;
-  display: block;
- 
+  
+  
 } 
 
 }
