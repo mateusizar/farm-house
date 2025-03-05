@@ -10,16 +10,29 @@
         height: 100vh;
         width: 100vw;
         background-position: center;
+        
         background-size: cover;
+        overflow-x: hidden;
+       
 }
-
+html {
+  position: fixed;
+}
+    
+.img-perfil {
+  margin-top: 100px;
+}
 
 .social-links {
-  overflow: hidden;
-  width: 200px;
-  height:auto;
-}
-
+  
+  width: 150px;
+  height: auto;
+  margin: 30px;
+  margin-top: 1px ;
+  margin-bottom: 200px;
+  display: block;
+ 
+} 
 
 }
 
