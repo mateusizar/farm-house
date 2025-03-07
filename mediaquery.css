@@ -32,12 +32,13 @@ html {
  
   
  
-  margin-bottom: 150px;
+  margin-bottom: 200px;
   
   
 } 
 .social-links ul li button { 
-   max-height: 40px;
+   max-height: 30px;
+   
  }
 
 }
