@@ -29,14 +29,16 @@ html {
  
   width: 150px;
   height: auto;
+ 
   
-  /* margin: 30px;
-  margin-top: 1px ; */
-
-  margin-bottom: 200px;
+ 
+  margin-bottom: 150px;
   
   
 } 
+.social-links ul li button { 
+   max-height: 40px;
+ }
 
 }
 
