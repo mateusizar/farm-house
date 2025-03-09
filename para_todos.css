@@ -91,7 +91,7 @@
 
   
   .img-perfil {
-  mix-blend-mode: multiply ;
+   clip-path: circle(35%);
   
   margin-top: 20px;
   
