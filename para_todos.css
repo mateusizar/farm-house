@@ -66,6 +66,9 @@
   
   .social-links ul li button:hover {
     background-color: gray;
+    
+    
+
   }
 
 
@@ -91,7 +94,7 @@
 
   
   .img-perfil {
-   clip-path: circle(35%);
+   
   
   margin-top: 20px;
   
@@ -105,6 +108,7 @@
 .img-perfil img {
   width: auto;
   height: auto;
+  
 
   border-radius: 50px;
 }
